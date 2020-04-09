@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Poaching Tent",
+		"uniqueTo": "Zakar",
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Coast","Plains","Grassland","Forest","Jungle"],
+		"food": 2,
+		"gold": 1,
+		"techRequired": "Trapping",
+		"improvingTech": "Rifling",
+		"improvingTechStats": {"production": 1}
+	}
+]
